@@ -1,6 +1,7 @@
 # Rotated 3D Image Gallery
 This is a front end project. <br>     I have created a Rotated 3D Image Gallery
-## Youtube Video Link
+##Video Link
+# Website Link
 
 
 
@@ -9,7 +10,6 @@ This is a front end project. <br>     I have created a Rotated 3D Image Gallery
 
 
             
-# Website Link
 
 
 
